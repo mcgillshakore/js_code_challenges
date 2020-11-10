@@ -23,11 +23,3 @@ function alternatingCharacters(s) {
 
 console.log(alternatingCharacters(s))
 // alternatingCharacters(s)
-
-arr = [ 10, 100, 60, 50]
-flightDur = 150
-
-boolean 
-function twoMovies( arr, flightDur){
-    
-}
