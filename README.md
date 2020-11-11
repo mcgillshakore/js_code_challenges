@@ -1,1 +1,1 @@
-# js_hackerrank_code_challenges
+# Javascript Code Challenges
