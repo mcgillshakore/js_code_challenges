@@ -32,16 +32,17 @@
 
     let arr = [1,2,3,4]
 
-    // function sumNum(arr){ // Linear Time O(n)
-    //     let total = 0; // 1
-    //     for (const num of arr){ // 1
-    //        total += arr[i] // length of n or length of array
-    //     }
-    //     return total; // 1
-    // }
+    function sumNum(arr){ // Linear Time O(n)
+        let total = 0; // 1
+        for (const num of arr){ // 1
+           total += arr[i] // length of n or length of array
+        }
+        return total; // 1
+    }
 
     function sumNum(arr){
 
     }
 
     // console.log(sumArr(arr));
+// study O(1) or constant time
